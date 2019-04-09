@@ -27,22 +27,22 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>org.wso2.siddhi</groupId>
+            <groupId>io.siddhi</groupId>
             <artifactId>siddhi-core</artifactId>
             <version>${siddhi.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.wso2.siddhi</groupId>
+            <groupId>io.siddhi</groupId>
             <artifactId>siddhi-query-compiler</artifactId>
             <version>${siddhi.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.wso2.siddhi</groupId>
+            <groupId>io.siddhi</groupId>
             <artifactId>siddhi-annotations</artifactId>
             <version>${siddhi.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.wso2.siddhi</groupId>
+            <groupId>io.siddhi</groupId>
             <artifactId>siddhi-query-api</artifactId>
             <version>${siddhi.version}</version>
         </dependency>
@@ -64,7 +64,7 @@
         <!--
             Name of the benchmark Uber-JAR to generate.
           -->
-        <siddhi.version>4.4.9</siddhi.version>
+        <siddhi.version>5.0.0-m7</siddhi.version>
         <uberjar.name>benchmarks</uberjar.name>
     </properties>
 
