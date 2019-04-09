@@ -64,7 +64,7 @@
         <!--
             Name of the benchmark Uber-JAR to generate.
           -->
-        <siddhi.version>5.0.0-m7</siddhi.version>
+        <siddhi.version>5.0.0-SNAPSHOT</siddhi.version>
         <uberjar.name>benchmarks</uberjar.name>
     </properties>
 
